@@ -9766,8 +9766,8 @@
       border: 1px solid;
     }
     :root {
-      --color-primary: #212121;
+      /* --color-primary: #212121;
       --color-primary-dark: #000000;
       --color-primary-light: #474747;
-      --color-primary-reverse: #ededed;
+      --color-primary-reverse: #ededed; */
   }
